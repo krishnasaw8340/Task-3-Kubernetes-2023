@@ -27,7 +27,6 @@ Table of Contents:
    - mongo-config.yml
 2. Installing minikube on ec2
    commands Used
-3. Monngo is running on sepreate pod
 
 
 # 1. Project Setup :
@@ -206,5 +205,3 @@ Table of Contents:
 
    
 
-
-## 3. . Monngo is running on sepreate pod
