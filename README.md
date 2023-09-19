@@ -196,14 +196,13 @@ Table of Contents:
       5. kubectl get pods
       6. minikube stop
       7. minikube ip.
+      
+![aws-setup1](https://github.com/krishnasaw8340/Task-3-Kubernetes-2023/assets/63328010/4b256f5b-961c-461c-90d3-30e870ba4898)
 
-      ![aws-setup1](https://github.com/krishnasaw8340/Task-3-Kubernetes-2023/assets/63328010/4b256f5b-961c-461c-90d3-30e870ba4898)
 
-
-
-      Minikube Installed:
+ Minikube Installed:
    
-      ![minikube-installed-2](https://github.com/krishnasaw8340/Task-3-Kubernetes-2023/assets/63328010/0ee16187-32fd-4930-a351-3c5d1d359f3c)
+![minikube-installed-2](https://github.com/krishnasaw8340/Task-3-Kubernetes-2023/assets/63328010/0ee16187-32fd-4930-a351-3c5d1d359f3c)
 
    
 
